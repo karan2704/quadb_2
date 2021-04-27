@@ -1,0 +1,17 @@
+.heading {
+  width: 95%;
+  border: solid transparent 20px;
+  border-radius: 20px;
+  background-color: transparent;
+  text-decoration: #2f3241;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.heading nav {
+  margin: auto 0;
+  color: gray;
+  text-align: left;
+}

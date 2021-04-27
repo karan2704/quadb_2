@@ -1,0 +1,16 @@
+.container {
+  align-items: center;
+  text-align: center;
+  margin: 130px 20px;
+}
+
+.container ul {
+  list-style: none;
+}
+
+.container li {
+  display: flex;
+  margin: 20px auto;
+  min-height: 45px;
+  border-bottom: 1px black solid;
+}

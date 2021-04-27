@@ -1,0 +1,18 @@
+.entry {
+  width: 95%;
+  border: solid #2f3241 10px;
+  border-radius: 20px;
+  background-color: #2f3241;
+  font-family: "Lato", sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-align: left;
+}
+
+.entry nav {
+  margin: auto 0;
+  color: white;
+  text-align: left;
+  margin-left: 0;
+}
