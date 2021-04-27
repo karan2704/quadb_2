@@ -20,7 +20,7 @@ const Container = () => {
     })
    }, [])
 
-   const renderedList = Object.keys(data)
+   const renderedList = Object.keys(data).slice(1,11)
         .map((entryKey, index) => {
             return (
             <li>
